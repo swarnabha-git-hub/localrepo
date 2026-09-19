@@ -6,6 +6,6 @@ while (num > 0):
     rev = rev*10 + dig
     num=num//10
 if og == rev :
-    print("number is palindrom")
+    print("number{og} is palindrom")
 else:
-    print("number is not palindrom")
+    print("number{num} is not palindrom")
